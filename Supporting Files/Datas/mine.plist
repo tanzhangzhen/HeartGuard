@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>家人信息</string>
+			<key>icon</key>
+			<string>ic_family_detail</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>添加家人</string>
+			<key>icon</key>
+			<string>ic_add_family</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>账户设置</string>
+			<key>icon</key>
+			<string>ic_accout_set</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>我的心电仪</string>
+			<key>icon</key>
+			<string>ic_ecgsensor</string>
+		</dict>
+	</array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>关于智能云心电仪</string>
+			<key>icon</key>
+			<string>ic_about</string>
+		</dict>
+	</array>
+</array>
+</plist>
